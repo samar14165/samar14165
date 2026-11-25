@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @samar14165
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi, I'm Samar 👋
 
-<!---
-samar14165/samar14165 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Junior Frontend Developer building fast, responsive interfaces with React.js, JavaScript and Tailwind CSS.
+
+Tools
+Frameworks: React.js, Next.js (basic)
+JavaScript: ES6+, DOM, BOM, AJAX, jQuery
+Styling: HTML5, CSS3, Sass, Bootstrap 5, Tailwind CSS
+Workflow: Git, GitHub, NPM, responsive design
+Projects
+Smart Login System: sign up, sign in and logout with validation, built with JavaScript and Bootstrap.
+Yummy: a meals app with search, categories, areas and ingredients, using the TheMealDB API.
+Product Manager (CRUD): add, update, delete and search products, saved in the browser.
+DevFolio: a responsive personal portfolio template built with Bootstrap.
+Contact
+Email: samarabdelshakour2@gmail.com
+LinkedIn: www.linkedin.com/in/samar-abdelshakour-ghoziz-68aaa020b
+
