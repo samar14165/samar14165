@@ -19,4 +19,6 @@
 ## Contact
 
 - Email: samarabdelshakour2@gmail.com
-- LinkedIn: [Samar Abdelshakour](https://www.linkedin.com/in/samar-abdelshakour-ghoziz-68aaa020)
+- LinkedIn: www.linkedin.com/in/samar-abdelshakour-ghoziz-68aaa020b
+
+
